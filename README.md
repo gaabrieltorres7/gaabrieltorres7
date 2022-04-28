@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Torres👋
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas // SENAC
-- 🧑🏽‍💻 Estudando HTML5, CSS3 e JavaScript
 <div align="center">
   <a href="https://github.com/https://github.com/gaabrieltorres7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
