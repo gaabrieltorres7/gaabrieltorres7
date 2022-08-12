@@ -1,6 +1,8 @@
-### Olá! Eu sou o Gabriel Torres👋
+<h2>🪐 Olá! Bem vindo ao meu perfil no GitHub. :grin: </h2>
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas // SENAC
+- 👩‍💻 Meu nome é Gabriel.
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
+- 💡 Atualmente estou estudando Análise de Dados e Desenvolvimento de Software.
 <div align="center">
   <a href="https://github.com/https://github.com/gaabrieltorres7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,5 +20,5 @@
 
 <div>
   <a href = "mailto:gaabrieltt7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-torres-b19ab2228/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gaabrieltorres7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
