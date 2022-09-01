@@ -1,8 +1,8 @@
-<h2>🪐 Olá! Bem vindo ao meu perfil no GitHub. :grin: </h2>
+<h2>🪐 Hello! Welcome to my Github profile. :grin: </h2>
 
-- 👩‍💻 Meu nome é Gabriel.
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
-- 💡 Atualmente estou estudando Análise de Dados e Desenvolvimento de Software.
+- 👩‍💻 My name is Gabriel and I'm from Brazil.
+- 📚 I'm a Systems Analysis and Development student at Faculdade Senac.
+- 💡 I'm currently learning Data Analytics and Software Development.
 <div align="center">
   <a href="https://github.com/https://github.com/gaabrieltorres7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
