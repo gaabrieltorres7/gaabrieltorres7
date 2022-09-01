@@ -2,7 +2,7 @@
 
 - 👩‍💻 My name is Gabriel and I'm from Brazil.
 - 📚 I'm a Systems Analysis and Development student at Faculdade Senac.
-- 💡 I'm currently learning Data Analytics and Software Development.
+- 💡 I'm currently learning Software Development and Data Analytics.
 <div align="center">
   <a href="https://github.com/https://github.com/gaabrieltorres7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
