@@ -1,13 +1,13 @@
-<h2>🪐 Hello! Welcome to my Github profile. :grin: </h2>
+<h2 align="center">🪐 Hello! Welcome to my Github profile. :grin: </h2>
 
 - 👩‍💻 My name is Gabriel and I'm from Brazil.
 - 📚 I'm a Systems Analysis and Development student at Faculdade Senac.
 - 💡 I'm currently learning Software Development and Data Analytics.
-<div align="center">
-  <a href="https://github.com/https://github.com/gaabrieltorres7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrieltorres7&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+##
+
+- :zap: These are my most used tools in development:</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
