@@ -1,4 +1,4 @@
-<h2 align="center">🪐 Hello! Welcome to my Github profile. :grin: </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBB00&width=435&lines=Hey!+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
 - 👩‍💻 My name is Gabriel and I'm from Brazil.
 - 📚 I'm a Systems Analysis and Development student at Faculdade Senac.
@@ -22,3 +22,7 @@
   <a href = "mailto:gaabrieltt7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gaabrieltorres7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=gaabrieltorres7&color=yellow)
