@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBB00&width=435&lines=Hey!+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
 - 👩‍💻 My name is Gabriel and I'm from Brazil.
-- 📚 I'm a Systems Analysis and Development student at Faculdade Senac.
-- 👔 I'm currently a Software Development intern at Sei Sistemas Brasil.
+- 📚 Computer Science student at Uninassau.
+- 👔 Currently a Software Development intern at Sei Sistemas Brasil.
 
 ##
 
@@ -26,5 +26,3 @@
 </div>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=gaabrieltorres7&color=yellow)
