@@ -1,10 +1,10 @@
 <div align="right">
-  <a href="https://app.daily.dev/gaabrieltorres7" target="_blank">
-    <img src="https://api.daily.dev/devcards/28172cfefd44411fa6dc71dfe51df39a.png?r=ysp"
-         width="256"
-         align="right"
-         alt="Gabriel Torres's Dev Card"
-    />
+  <a href="https://app.daily.dev/DailyDevTips">
+      <img src="https://github.com/gaabrieltorres7/gaabrieltorres7/blob/main/devcard.svg"
+           width="256"
+           align="right"
+           alt="Gabriel Torres' Dev Card"
+      />
   </a>
 </div>
 
