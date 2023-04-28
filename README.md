@@ -1,3 +1,13 @@
+<div align="right">
+  <a href="https://app.daily.dev/gaabrieltorres7" target="_blank">
+    <img src="https://api.daily.dev/devcards/28172cfefd44411fa6dc71dfe51df39a.png?r=ysp"
+         width="256"
+         align="right"
+         alt="Gabriel Torres's Dev Card"
+    />
+  </a>
+</div>
+
 ## Hey! Welcome
 
 - 🌀 Backend is my passion
@@ -20,7 +30,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/10/d8/5e/10d85ed6fd6c4458b7b6b09b84f43d7b.jpg">
 </div>
  
  ##
