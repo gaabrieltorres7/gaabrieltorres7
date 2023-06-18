@@ -11,7 +11,7 @@
 ## Hey! Welcome
 
 - 🌀 Backend is my passion
-- 🔭 Currently specializing and learning more about NodeJS and Typescript
+- 🔭 Currently specializing and learning more about NodeJS and React
 
 ##
 
