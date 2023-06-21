@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E0DFC&height=120&section=header"/>
+
 <div align="right">
   <a href="https://app.daily.dev/DailyDevTips">
       <img src="https://github.com/gaabrieltorres7/gaabrieltorres7/blob/main/devcard.svg"
@@ -12,6 +14,10 @@
 
 - 🌀 Backend is my passion
 - 🔭 Currently specializing and learning more about NodeJS and React
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&count_private=true&hide_border=true&title_color=5E0DFC&icon_color=5E0DFC&text_color=c9d1d9&bg_color=0d1117" alt="gaabrieltorres7 github stats" /> <br>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrieltorres7&layout=compact&hide_border=true&title_color=5E0DFC&text_color=5E0DFC&bg_color=0d1117" />
+</div>
 
 ##
 
@@ -34,9 +40,7 @@
 </div>
  
  ##
-
-<div>
+  ### Contact:<br>
   <a href="mailto:gaabrieltt7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gaabrieltorres7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 
