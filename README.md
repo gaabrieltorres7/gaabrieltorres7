@@ -10,10 +10,7 @@
   </a>
 </div>
 
-## Hey! Welcome
-
-- 🌀 Backend is my passion
-- 🔭 Currently specializing and learning more about NodeJS and C#/ASP.NET Core
+## Hey! Welcome :zap:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaabrieltorres7&show_icons=true&count_private=true&hide_border=true&title_color=5E0DFC&icon_color=5E0DFC&text_color=c9d1d9&bg_color=0d1117" alt="gaabrieltorres7 github stats" /> <br>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrieltorres7&layout=compact&hide_border=true&title_color=5E0DFC&text_color=5E0DFC&bg_color=0d1117" />
@@ -21,7 +18,7 @@
 
 ##
 
-- :zap: These are my most used tools in development:</p>
+- These are my most used tools in development:</p>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
