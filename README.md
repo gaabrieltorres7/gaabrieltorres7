@@ -4,6 +4,6 @@
 
 
 - 🏢 Software Engineer Intern (Full Stack) SEI Sistemas, in SP, BR
-- 🧰 I build with: `JavaScript` `TypeScript`, `NodeJS`, `NestJS`, `Express`, `ASP.NET Core`, `Entity Framework`, `ReactJS`, `NextJS` ...
+- 🧰 I build with: `JavaScript`, `TypeScript`, `NodeJS`, `NestJS`, `Express`, `ASP.NET Core`, `Entity Framework`, `ReactJS`, `NextJS` ...
 - ⚡ I enjoy reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: **gaabrieltt7@gmail.com**
