@@ -3,7 +3,7 @@
 <a href="mailto:contatogttech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-- 🏢 Software Engineer at ENDVR, in Quebec, 🇨🇦
+- 🏢 Software Engineer at ENDVR in Quebec, 🇨🇦
 - 🏡 Based in 🇧🇷
 - 🧰 I build with: `JavaScript`, `TypeScript`, `NodeJS`, `NestJS`, `Express`, `ReactJS`, `NextJS` ...
 - ⚡ I enjoy reading, playing soccer, and lifting weights :)
