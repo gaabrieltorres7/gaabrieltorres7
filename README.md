@@ -7,4 +7,4 @@
 - 🏡 Based in 🇧🇷
 - 🧰 I build with: `JavaScript`, `TypeScript`, `NodeJS`, `NestJS`, `Express`, `ReactJS`, `NextJS` ...
 - ⚡ I enjoy reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: **gaabrieltt7@gmail.com**
+- 📫 Reach out to me: **contatogttech@gmail.com**
