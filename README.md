@@ -5,6 +5,6 @@
 
 - 🧑‍💻 DevOps Engineer | Software Engineer (backend focus)
 - 🌎 Based in 🇧🇷
-- 🛠️ I work with: `Docker`, `Kubernetes`, `GitHub Actions`, `Prometheus`, `Grafana`, `Terraform`, `AWS`, `NodeJS`, `NestJS`, `ReactJS`
+- 🛠️ I work with: `Docker`, `Kubernetes`, `GitHub Actions`, `Prometheus`, `Grafana`, `Terraform`, `AWS`, `NodeJS`, `NestJS`, `ReactJS`, `TypeScript`
 - ⚡ I enjoy reading, running, and lifting weights :)
 - 📫 Reach out to me: **contatogttech@gmail.com**
