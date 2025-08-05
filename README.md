@@ -5,6 +5,6 @@
 
 - 🧑‍💻 DevOps Engineer
 - 🌎 Based in 🇧🇷
-- 🛠️ I work with: `Docker`, `Kubernetes`, `GitHub Actions`, `Prometheus`, `Grafana`, `Terraform`, `AWS`, `NodeJS`, `NestJS`, `ReactJS`, `TypeScript`
+- 🛠️ I work with: `Docker`, `Kubernetes`, `CI/CD`, `Prometheus`, `Grafana`, `Terraform`, `AWS`, `Azure`, `ShellScript`, `Python`, `Linux`
 - ⚡ I enjoy reading, running, and lifting weights :)
 - 📫 Reach out to me: **contatogttech@gmail.com**
