@@ -2,8 +2,7 @@
 <a href="mailto:contatogttech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - 🧑‍💻 DevOps / Platform Engineer / SRE
-- 🌎 Based in 🇧🇷
 - 🛠️ I work with: `Docker`, `Kubernetes`, `ArgoCD`, `CI/CD`, `Prometheus`, `Grafana`, `Datadog`, `Terraform`, `AWS`, `Azure`, `ShellScript`, `Python`, `Linux`
 - 🎯 Studying for: AWS Solutions Architect Associate & Terraform Associate
-- ⚡ I enjoy reading, running, and lifting weights :)
+- ⚡ I enjoy reading, running, and playing chess :)
 - 📫 Reach out to me: **contatogttech@gmail.com**
