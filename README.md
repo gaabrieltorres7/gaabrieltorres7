@@ -3,6 +3,5 @@
 
 - 🧑‍💻 DevOps / Platform Engineer / SRE
 - 🛠️ I work with: `Docker`, `Kubernetes`, `ArgoCD`, `CI/CD`, `Prometheus`, `Grafana`, `Datadog`, `Terraform`, `AWS`, `Azure`, `ShellScript`, `Python`, `Linux`
-- 🎯 Studying for: AWS Solutions Architect Associate & Terraform Associate
 - ⚡ I enjoy reading, running, and playing chess :)
 - 📫 Reach out to me: **contatogttech@gmail.com**
